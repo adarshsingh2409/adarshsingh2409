@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-singh-b99aa5238/)
 [![Twitter](https://img.shields.io/badge/Twitter-%230077B5.svg?logo=Twitter&logoColor=white)](https://twitter.com/AdarshS44093566)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%2320232a.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/septemberadarsh/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%23323330.svg?logo=GeeksforGeeks&logoColor=white)](https://www.codechef.com/users/)
+<a href="https://auth.geeksforgeeks.org/user/adarshsingh2409info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adarshsingh2409info" height="30" width="40" /></a>
 
 <div align="left">
     <img style=" width: 375px;" src="https://leetcard.jacoblin.cool/septemberadarsh?theme=light&font=Noto%20Sans%20Math" />
